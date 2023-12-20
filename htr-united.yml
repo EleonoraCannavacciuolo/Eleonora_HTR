@@ -72,9 +72,7 @@ hands:
 institutions: []
 language:
 - fro
-license:
-  type: CC-BY
-  version: 4.0
+license: CC-BY 4.0
 format: Alto-XML
 production-software: eScriptorium + Kraken
 project-name: ms19152
