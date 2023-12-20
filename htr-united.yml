@@ -1,33 +1,97 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: '19152'
-url: https://github.com/EleonoraCannavacciuolo/Eleonora_HTR
 authors:
-  - name: Eleonora
-    surname: Cannavacciuolo
-    roles:
-      - transcriber
-      - project-manager
-      - quality-control
-institutions: []
-description: Manuscrit 19152
-project-name: ms19152
-language:
-  - fro
-production-software: eScriptorium + Kraken
+- name: Eleonora
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
+  surname: Cannavacciuolo
 automatically-aligned: false
-script:
-  - iso: Latn
-script-type: only-manuscript
-time:
-  notBefore: '1300'
-  notAfter: '1400'
+characters:
+  members:
+  - e
+  - i
+  - a
+  - s
+  - r
+  - o
+  - l
+  - t
+  - n
+  - u
+  - m
+  - c
+  - ̃
+  - p
+  - d
+  - ̾
+  - f
+  - z
+  - g
+  - h
+  - b
+  - .
+  - ⁊
+  - Q
+  - E
+  - ͣ
+  - q
+  - S
+  - ᷑
+  - ꝯ
+  - I
+  - ꝑ
+  - D
+  - M
+  - G
+  - ͥ
+  - V
+  - N
+  - ͦ
+  - O
+  - ⟦
+  - ̣
+  - ⟧
+  - F
+  - x
+  - C
+  - ᷒
+  - L
+  - B
+  - T
+  - A
+  - v
+  - ꝰ
+  - ͬ
+  - y
+  mode: NFD
+description: Manuscrit 19152
+format: Alto-XML
 hands:
   count: '1'
   precision: exact
+institutions: []
+language:
+- fro
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: ms19152
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notAfter: '1400'
+  notBefore: '1300'
+title: '19152'
+url: https://github.com/EleonoraCannavacciuolo/Eleonora_HTR
 volume:
-  - metric: lines
-    count: 20
+- count: 2851
+  metric: characters
+- count: 1
+  metric: files
+- count: 138
+  metric: lines
+- count: 6
+  metric: regions
