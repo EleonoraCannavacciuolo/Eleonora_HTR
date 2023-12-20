@@ -1,28 +1,95 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: manuscrit 19152
-url: https://github.com/EleonoraCannavacciuolo/Eleonora_HTR
 authors:
-  - name: Eleonora
-    surname: Cannavacciuolo
-    roles:
-      - transcriber
-      - project-manager
-institutions: []
-description: Documenti blabla
-project-name: FoNDUE
-language: []
-production-software: eScriptorium + Kraken
+- name: Eleonora
+  roles:
+  - transcriber
+  - project-manager
+  surname: Cannavacciuolo
 automatically-aligned: false
-script:
-  - iso: Latn
-script-type: only-manuscript
-time:
-  notBefore: '1300'
-  notAfter: '1400'
+characters:
+  members:
+  - e
+  - i
+  - a
+  - s
+  - r
+  - o
+  - l
+  - t
+  - n
+  - u
+  - m
+  - c
+  - ̃
+  - p
+  - d
+  - ̾
+  - f
+  - z
+  - g
+  - h
+  - b
+  - .
+  - ⁊
+  - Q
+  - E
+  - ͣ
+  - q
+  - S
+  - ᷑
+  - ꝯ
+  - I
+  - ꝑ
+  - D
+  - M
+  - G
+  - ͥ
+  - V
+  - N
+  - ͦ
+  - O
+  - ⟦
+  - ̣
+  - ⟧
+  - F
+  - x
+  - C
+  - ᷒
+  - L
+  - B
+  - T
+  - A
+  - v
+  - ꝰ
+  - ͬ
+  - y
+  mode: NFD
+description: Documenti blabla
+format: Alto-XML
 hands:
   count: '1'
   precision: exact
+institutions: []
+language: []
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: FoNDUE
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notAfter: '1400'
+  notBefore: '1300'
+title: manuscrit 19152
+url: https://github.com/EleonoraCannavacciuolo/Eleonora_HTR
+volume:
+- count: 2851
+  metric: characters
+- count: 1
+  metric: files
+- count: 138
+  metric: lines
+- count: 6
+  metric: regions
