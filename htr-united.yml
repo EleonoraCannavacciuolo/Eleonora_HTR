@@ -1,0 +1,28 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: manuscrit 19152
+url: https://github.com/EleonoraCannavacciuolo/Eleonora_HTR
+authors:
+  - name: Eleonora
+    surname: Cannavacciuolo
+    roles:
+      - transcriber
+      - project-manager
+institutions: []
+description: Documenti blabla
+project-name: FoNDUE
+language: []
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '1300'
+  notAfter: '1400'
+hands:
+  count: '1'
+  precision: exact
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
